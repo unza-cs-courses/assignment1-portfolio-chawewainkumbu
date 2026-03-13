@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Inkumbu Chawewa
+**Student ID:** 2021437612
+**Design Theme:** My portfolio features a modern and clean web design with a focus on simplicity, clarity, and visual appeal. It combines a muted slate and electric blue color palette, intuitive layouts, and responsive elements to create a professional yet approachable digital presence. The style emphasizes both functionality and aesthetics, highlighting my skills in web development and design through organized sections, interactive project showcases, and clear typography, ensuring visitors can easily explore my work while experiencing a cohesive and engaging interface.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,10 +139,10 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+While building my portfolio, I faced challenges in implementing responsive layouts and ensuring consistent styling across different devices and browsers. To solve these, I studied CSS Flexbox and Grid thoroughly, tested my designs on multiple screen sizes, and iteratively refined the code. I also encountered difficulties integrating images and media effectively without slowing down the page, which I addressed by optimizing image sizes and using proper file formats. These experiences strengthened my problem-solving skills and improved my ability to create a professional, user-friendly web experience.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+This portfolio uses images sourced from free stock photo websites such as Unsplash and Pexels, including my project screenshots and profile photo. The fonts used are from Google Fonts, primarily Roboto and Montserrat. All icons and buttons are created using free resources from Font Awesome and Lucide Icons. Any additional CSS inspiration or code snippets were referenced from MDN Web Docs and W3Schools, with proper acknowledgment given to these sources.
 
 ---
 
